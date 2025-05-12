@@ -69,12 +69,28 @@ Make sure you have Python installed, along with the necessary libraries (see `re
 
 This section contains links to the slides and other resources used in the presentation to introduce the concepts.
 
-* **Slide Title 1:** [[Title](https://claude.ai/public/artifacts/40087620-452a-4d45-babc-a361dacc55be)]
-* **Slide Title 2:** [Your URL Here]
-* **Introduction to Neural Networks:** [Your URL Here]
-* **What is Deep Learning?:** [Your URL Here]
-* **Recurrent Neural Networks (RNNs) Explained:** [Your URL Here]
-* *(Add more as needed)*
+* **Understanding AI: From Neural Networks to Large Language Models:** [[Slide](https://claude.ai/public/artifacts/40087620-452a-4d45-babc-a361dacc55be)]
+* **Why Understanding AI Matters for Today's 10th Graders:** [[Slide](https://claude.ai/public/artifacts/08998e11-30dc-45cd-9bcd-497867a2a09d)]
+* **Building the Vehicle Simulation with Gemini:** [[Slide](https://claude.ai/public/artifacts/da36f44c-240c-428b-840a-2ef480caa129)]
+* **Training Data Example:** [[Slide](https://claude.ai/public/artifacts/201a1d14-bcd6-4661-bf99-a012d174b83b)]
+* **Neural Network Structure:** [[Slide](https://claude.ai/public/artifacts/06a01d25-5a43-460b-8cb0-aa2c3c136154)]
+* **Neural Network Structure:** [[Slide](https://claude.ai/public/artifacts/ee23a3a1-e9b3-4491-b79a-9fc56f33aecb)]
+* **Neural Network Structure:** [[Slide](https://claude.ai/public/artifacts/3e414c02-2f0c-4b3e-98a1-942792b76f1c)]
+* **Loss Function Motivation for Neural Networks:** [[Slide](https://claude.ai/public/artifacts/6de48b25-cb69-487c-b995-29eb3720d9ab)]
+* **Gradient Descent & Loss Function:** [[Slide](https://claude.ai/public/artifacts/254054ae-a8da-40b1-9c15-fd22a002880a)]
+* **Model Training History:** [images/model-training-history.png]
+* **Neural Network Structure:** [[Slide](https://claude.ai/public/artifacts/5aab3942-c5f8-4fac-b2c0-798427d1650e)] (Note: calculation below is not updated)
+* **From Neural Networks to Large Language Models:** [[Slide](https://claude.ai/public/artifacts/6f0d2988-9ea5-4be1-9f20-6142956989a4)]
+* **How LLMs Answer Questions:** [[Slide](https://claude.ai/public/artifacts/5d64498b-587a-410c-97f1-ab776f1c4ab7)]
+* **Modern AI Systems:** [[Slide](https://claude.ai/public/artifacts/157d8b08-4e34-44e7-962f-4954cc8bfc27)]
+* **Using GenAI Responsibly in IB Projects:** [[Slide](https://claude.ai/public/artifacts/ccf0c3ff-3598-4bba-b580-c8776290f555)]
+* **AI Project Ideas for IB Diploma:** [[Slide](https://claude.ai/public/artifacts/57dc60bc-4dc3-484f-ad36-9000860e6b24)]
+
+### Backup Slides
+
+* **Why Memory Helps:** [[Slide](https://claude.ai/public/artifacts/ed64cae3-2dc4-4d83-aeeb-12d6817bd36f)]
+* **From Feed-Forward to Recurrent Neural Networks:** [[Slide](https://claude.ai/public/artifacts/64f71205-b6b0-4114-b871-79b1e2b46080)]
+
 
 ## Potential Todos & Future Enhancements
 
